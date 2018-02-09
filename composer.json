@@ -2,7 +2,7 @@
   "name": "heimrichhannot-contao-components/jscroll",
   "description": "A shim repositoy for jscroll as contao component.",
   "type": "contao-component",
-  "license": "MIT",
+  "license": ["MIT", "GPL-2.0-or-later"],
   "keywords": [
     "contao",
     "contao-component",
