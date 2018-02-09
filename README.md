@@ -20,13 +20,13 @@ Add the following to your config (keep keys to prevent double integration):
 ### Contao 4
 
 ```
-$GLOBALS['TL_JAVASCRIPT']['huh_components_jscroll'] = 'assets/jscroll/dist/jscroll.pkgd.min.js|static';
+$GLOBALS['TL_JAVASCRIPT']['huh_components_jscroll'] = 'assets/jscroll/dist/jquery.jscroll.min.js|static';
 ```
 
 ### Contao 3
 
 ```
-$GLOBALS['TL_JAVASCRIPT']['huh_components_jscroll'] = 'assets/components/jscroll/dist/jscroll.pkgd.min.js|static';
+$GLOBALS['TL_JAVASCRIPT']['huh_components_jscroll'] = 'assets/components/jscroll/dist/jquery.jscroll.min.js|static';
 ```
 
 
